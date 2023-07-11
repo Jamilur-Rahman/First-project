@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.first-part{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.paragraph-first{
+    margin: 20px 0px;
+}
+.btn{
+    padding: 10px;
+}
+.heading-two, .paragraph-two{
+    text-align: center;
+    margin: 20px 0px;
+}
+.first-first-photo{
+    width: 300px;
+}
+.second-part{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.second-first-photo, .second-second-photo, .second-third-photo{
+    width: 200px;
+    height: 300px;
+}
+.sub-paragraph{
+    text-align: center;
+    margin: 20px 0px 40px 0px;
+}
+.third-part{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    padding: 20px 0px 40px 0px;
+}
+.fourth-part{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.fourth-text-area{
+    text-align: center;
+}
+.heading-three{
+    margin-bottom: 20px;
+}
+.paragraph-three{
+    margin-bottom: 20px;
+}
+.heading-four{
+    text-align: center;
+    margin: 50px 0px 20px 0px;
+}
+.paragraph-four{
+    text-align: center;
+}
+.fifth-part{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 30px 0px 40px 0px;
+}
+.fifth-first-photo, .fifth-second-photo, .fifth-third-photo, .fifth-fourth-photo{
+    width: 200px;
+    height: 300px;
+}
+.sixth-part{
+    background-image: url('images/img13.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    margin: 20px 78px 40px 78px;
+    text-align: center;
+}
+.heading-five{
+    padding: 70px 0px 20px 0px;
+}
+.paragraph-five, .input-one{
+    margin-bottom: 20px;
+}
+.seventh-part{
+    background-color: black;
+    color: white;
+}
+.heding-six, .paragraph-six, .paragraph-seven{
+    text-align: center;
+}
+.heding-six{
+    padding: 40px 0px 20px 0px;
+}
+.paragraph-six{
+    margin-bottom: 20px;
+}
+.paragraph-seven{
+    padding-bottom: 70px;
+}
