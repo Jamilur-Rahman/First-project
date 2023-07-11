@@ -47,7 +47,12 @@ h1, h3{
     background-color: #D4AAB9;
 }
 
-.sub-paragraph{
+.sub-paragraph-one{
+    text-align: center;
+    margin: 20px 0px 40px 0px;
+    text-decoration: underline;
+}
+.sub-paragraph-two{
     text-align: center;
     margin: 20px 0px 40px 0px;
 }
