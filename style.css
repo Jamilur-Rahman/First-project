@@ -108,7 +108,7 @@ span{
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
-    margin: 20px 78px 40px 78px;
+    margin: 20px 78px 20px 78px;
     text-align: center;
 }
 .heading-five{
@@ -138,4 +138,15 @@ span{
 }
 .paragraph-seven{
     padding-bottom: 70px;
+}
+.input-two{
+    display: block;
+    margin: 10px 0px 10px 430px;
+    padding: 5px;
+    width: 300px;
+}
+.extra-part{
+    text-align: center;
+    padding: 30px 0px 50px 0px;
+    background-color: #D4AAB9;
 }
