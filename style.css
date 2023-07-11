@@ -11,18 +11,23 @@ h1, h3{
     align-items: center;
     justify-content: space-around;
     background-color: #D4AAB9;
+    padding-top: 30px;
 }
 .paragraph-first{
     margin: 20px 0px;
 }
 .btn{
     padding: 10px;
-    background-color: #D4AAB9;
+    background-color: #e9286b;
     border: none;
     border-radius: 10px;
     font-size: 15px;
 }
-.heading-two, .paragraph-two{
+.heading-two{
+    text-align: center;
+    margin: 100px 0px 20px 0px;
+}
+.paragraph-two{
     text-align: center;
     margin: 20px 0px;
 }
@@ -36,8 +41,12 @@ h1, h3{
 }
 .second-first-photo, .second-second-photo, .second-third-photo{
     width: 200px;
-    height: 300px;
+    height: 250px;
+    border-top-left-radius: 50% ;
+    border-top-right-radius: 50%;
+    background-color: #D4AAB9;
 }
+
 .sub-paragraph{
     text-align: center;
     margin: 20px 0px 40px 0px;
@@ -47,7 +56,7 @@ h1, h3{
     text-align: center;
     justify-content: space-evenly;
     padding: 20px 0px 10px 0px;
-    margin: 0px 150px 20px 150px;
+    margin: 0px 140px 20px 140px;
     background-color: #D4AAB9;
 }
 .fourth-part{
@@ -115,6 +124,12 @@ span{
 }
 .paragraph-six{
     margin-bottom: 20px;
+}
+.input-one{
+    height: 25px;
+    width: 300px;
+    padding: 5px;
+    border-radius: 5px;
 }
 .paragraph-seven{
     padding-bottom: 70px;
